@@ -1,16 +1,15 @@
-## check out my creations
+# Hi, I'm Andu!
+![Hello](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)
 
-<!--
-**7Andut/7Andut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Romania. I've been building games, websites, and digital projects since I was 11. I like experimenting with coding, game development, and digital art — basically, I love making cool things just for fun!
 
-Here are some ideas to get you started:
+## What i like doing
+* Game Development & Cool Projects
+* Video & Photo Editing
+* Web Development & Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Lua (Intermediate/Advanced)
+- HTML & CSS (Intermediate/Beginner)
+- JavaScript (Beginner)
+- C# (Beginner)
